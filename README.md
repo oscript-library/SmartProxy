@@ -1,4 +1,4 @@
-# oscript-smartProxy
+# smartProxy
  
 Библиотека для получения работающих https прокси серверов.
 
